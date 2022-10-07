@@ -10,7 +10,7 @@
 
 * Resetar Windows Update.                                                         
 * Checar e reparar todos os discos.                                               
-vEscanear e reparar erros de sistema.                                            
+* Escanear e reparar erros de sistema.                                            
 * Ferramenta de Diagnostico do DirectX.                                           
 * Abrir limpeza de disco.                                                         
 * WinSAT (testes de avaliacao do sistema)                                        
