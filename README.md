@@ -15,7 +15,7 @@ vEscanear e reparar erros de sistema.
 * Abrir limpeza de disco.                                                         
 * WinSAT (testes de avaliacao do sistema)                                        
 * Criar ponto de restauracao do sistema.                                      
-vApagar arquivos de apps da IOBIT.                           
+* Apagar arquivos de apps da IOBIT.                           
 * Limpeza de dados de lixo de navegadores, arquivos temporarios.                 
 * Limpeza de  pasta WinSxS                                                       
 * Buscar atualizacoes Windows Update                                             
