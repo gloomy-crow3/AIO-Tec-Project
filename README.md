@@ -50,5 +50,6 @@ vApagar arquivos de apps da IOBIT.
 * Windows Defender Firewall com Seguranca Avancada.
 * Gerenciamento de TPM.
 * Acesso ao canal do projeto no Telegram.
+* Acesso ao grupo de suporte no Telegram;
 * Reiniciar o PC.
 * Desligar pc.
