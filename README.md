@@ -1,7 +1,7 @@
 # AIO-Tec-Project
 
  O script que é um canivete suíço para técnicos em informática e entusiastas, facilitando todo o gerenciamento, manutenção, ativação e limpeza de SO Windows e pacotes Microsoft Office.
- Todo o gerenciamento é feito de forma simplificada sem a necessidade de rodar quaiquer programas de terceiros (SIM, todas as opções que o script disponibiliza são do próprio sistema Windows) e sem a necessidade de rodar códigos na linha de comando (CMD). Uma verdadeira mão na roda nas mãos de técnicos simplificando e agilizando seu trabalho, assim ganhando tempo ao realizar manutenções em pcs de clientes.
+ Todo o gerenciamento é feito de forma simplificada sem a necessidade de rodar quaisquer programas de terceiros (SIM, todas as opções que o script disponibiliza são do próprio sistema Windows) e sem a necessidade de rodar códigos na linha de comando (CMD). Uma verdadeira mão na roda nas mãos de técnicos simplificando e agilizando seu trabalho, assim ganhando tempo ao realizar manutenções em pcs de clientes.
  Não há necessidade de conhecimento prévio para utilizá-lo, sendo necessário apenas rodar o programa e escolher a opção pertinente a sua necessidade, podendo ser usado por quiaisquer usuários que necessitem de fazer manutenções de software em seus pcs.
  O script funciona em todos os Sistemas Windows (testado a partir do WIndows XP) e ativação para todos pacotes Office disponíveis no mercado.
 
