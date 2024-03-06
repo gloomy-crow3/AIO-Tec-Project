@@ -55,3 +55,8 @@ Não há necessidade de conhecimento prévio para utilizá-lo, sendo necessário
 * Acesso ao grupo de suporte no Telegram;
 * Reiniciar o PC.
 * Desligar pc.
+
+##
+# Project links:
+##### <a href="https://t.me/gruposcriptaio">Support group</a>
+##### <a href="https://t.me/scriptaio">Updates channel</a>
