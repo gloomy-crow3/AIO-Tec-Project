@@ -57,6 +57,6 @@ Não há necessidade de conhecimento prévio para utilizá-lo, sendo necessário
 * Desligar pc.
 
 ##
-# Project links:
-##### <a href="https://t.me/gruposcriptaio">Support group</a>
-##### <a href="https://t.me/scriptaio">Updates channel</a>
+# Links do projeto:
+##### <a href="https://t.me/gruposcriptaio">Grupo de suporte</a>
+##### <a href="https://t.me/scriptaio">Canal de anulações</a>
